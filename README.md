@@ -1,7 +1,8 @@
 - 👋🏼 Hi, I’m Evgeny
 - 🌱 I’m currently learning Swift
+- 📨 Telegram @berezentsev_ev 
 - 📫 Email berezentsev.developer@gmail.com
-- 📨 Telegram  @berezentsev_ev 
+- 💡 LinkedIn https://www.linkedin.com/in/berezentsev
         
 
 <!---
