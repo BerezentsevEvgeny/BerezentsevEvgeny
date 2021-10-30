@@ -1,5 +1,5 @@
-- 👋🏼 Hi, I’m Evgeny
-- 🌱 I’m currently work with Swift language 
+- 👋🏼 Hi, I’m Evgeny Berezentsev
+- 🌱 I’m currently working on my IOS Apps
 - 📨 Telegram @berezentsev_ev 
 - 📫 Email berezentsev.developer@gmail.com
 - 💡 LinkedIn https://www.linkedin.com/in/berezentsev
