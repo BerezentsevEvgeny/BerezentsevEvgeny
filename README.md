@@ -3,7 +3,7 @@
 - 📨 Telegram @berezentsev_ev 
 - 📱 AppStore https://apps.apple.com/ru/app/moviac/id1590477802?l=en
 - 📫 Email berezentsev.developer@gmail.com
-- 💡 LinkedIn https://www.linkedin.com/in/eberezentsev
+- 💡 LinkedIn https://www.linkedin.com/in/berezentsev
         
 
 <!---
