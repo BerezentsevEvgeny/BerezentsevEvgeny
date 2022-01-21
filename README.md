@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Evgeniy
-- 🌱 I’m currently working on my IOS Apps
+- 🌱 Currently working on my IOS Apps
 - 📨 Telegram @berezentsev_ev 
 - 📱 AppStore https://apps.apple.com/ru/app/moviac/id1590477802?l=en
 - 📫 Email berezentsev.developer@gmail.com
